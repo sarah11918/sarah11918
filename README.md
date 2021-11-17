@@ -8,13 +8,6 @@
 
 ![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white) via ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)
 
-![Twitter](https://img.shields.io/badge/sarah11918-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-
-![Discord](https://img.shields.io/badge/%3CAstro%20Lounge%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-
-
-
-![Pop! OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 <!--
 **sarah11918/sarah11918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,5 +24,13 @@ Here are some ideas to get you started:
 
 [![sarah11918’s github stats](https://github-readme-stats.vercel.app/api?username=sarah11918)](https://github.com/sarah11918)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarah11918&layout=compact)](https://github.com/sarah11918)
+
+![Twitter](https://img.shields.io/badge/sarah11918-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+
+![Discord](https://img.shields.io/badge/%3CAstro%20Lounge%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+
+
+
+![Pop! OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 
 -->
