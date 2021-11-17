@@ -1,13 +1,10 @@
 <img src="https://user-images.githubusercontent.com/5098874/142215203-284acb33-90cd-4d31-80d6-352085be1d57.jpg" alt="Sarah Rainsbergerwith a tiny bird sitting on her outstretched palm.">
 
 ### Hi there 👋
-[![sarah11918’s github stats](https://github-readme-stats.vercel.app/api?username=sarah11918)](https://github.com/sarah11918)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarah11918&layout=compact)](https://github.com/sarah11918)
-
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
 
-on
+<p style="text-align:center">on</p>
 
 ![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white) via ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)
 
@@ -31,4 +28,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![sarah11918’s github stats](https://github-readme-stats.vercel.app/api?username=sarah11918)](https://github.com/sarah11918)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarah11918&layout=compact)](https://github.com/sarah11918)
+
 -->
