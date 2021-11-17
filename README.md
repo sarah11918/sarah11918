@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://user-images.githubusercontent.com/5098874/142215203-284acb33-90cd-4d31-80d6-352085be1d57.jpg" alt="Sarah Rainsbergerwith a tiny bird sitting on her outstretched palm.">
 <!--
 **sarah11918/sarah11918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
