@@ -1,8 +1,8 @@
-<img src="https://user-images.githubusercontent.com/5098874/142215203-284acb33-90cd-4d31-80d6-352085be1d57.jpg" alt="Sarah Rainsbergerwith a tiny bird sitting on her outstretched palm.">
+[![@sarah11918 Astro contributions](https://astro.badg.es/v1/contributor/sarah11918.svg)](https://astro.badg.es/v1/contributor/sarah11918/) <img src="https://user-images.githubusercontent.com/5098874/142215203-284acb33-90cd-4d31-80d6-352085be1d57.jpg" width="350" alt="Sarah Rainsbergerwith a tiny bird sitting on her outstretched palm.">
+<br>
+![](https://img.shields.io/badge/ASTRO-blueviolet) ![](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white "HTML") ![](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white "Markdown") ![](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white "CSS") ![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E "JavaScript") ![](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB "React") on ![](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white "Chrome OS") via ![](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white "Gitpod")
 
-### Hi there 👋
 
-![](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white "HTML") ![](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white "Markdown") ![](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white "CSS") ![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E "JavaScript") ![](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB "React") on ![](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white "Chrome OS") via ![](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white "Gitpod")
 
 <!--
 **sarah11918/sarah11918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
