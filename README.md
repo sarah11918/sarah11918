@@ -1,4 +1,4 @@
-🚀 Docs Lead and Core Maintainer at @astrodotbuild 🚀
+![Astro](https://img.shields.io/badge/Astro-333333.svg?logo=astro) 🚀 Docs Lead and Core Maintainer 🚀
 
 
 ![Astro Docs](https://img.shields.io/badge/docs.astro.build-blueviolet?style=for-the-badge)  ![Follow me on Twitter](https://img.shields.io/badge/@sarah11918-blue?logo=twitter&logoColor=white&style=for-the-badge)
