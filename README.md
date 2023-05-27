@@ -1,7 +1,7 @@
 ![Astro](https://img.shields.io/badge/Astro-333333.svg?logo=astro) 🚀 Docs Lead and Core Maintainer 🚀
 
 
-![Astro Docs](https://img.shields.io/badge/docs.astro.build-blueviolet?style=for-the-badge)  ![Follow me on Twitter](https://img.shields.io/badge/@sarah11918-blue?logo=twitter&logoColor=white&style=for-the-badge) ![Follow me on Mastodon](https://img.shields.io/mastodon/follow/000011967?domain=https%3A%2F%2Fmastodon.social&label=%40sarah11918%40mastodon.social&logo=mastodon&logoColor=white&style=for-the-badge)
+![Astro Docs](https://img.shields.io/badge/docs.astro.build-blueviolet?style=for-the-badge)  ![Follow me on Twitter](https://img.shields.io/badge/@sarah11918-blue?logo=twitter&logoColor=white&style=for-the-badge) ![Follow me on Mastodon](https://img.shields.io/mastodon/follow/000011967?domain=https%3A%2F%2Fmastodon.social&label=%40sarah11918%40mastodon.social&logo=mastodon&logoColor=white&style=for-the-badge) ![Visit my blog](https://img.shields.io/badge/blog-rainsberger.ca-blue?style=for-the-badge)
 
 [![@sarah11918 Astro contributions](https://astro.badg.es/v1/contributor/sarah11918.svg)](https://astro.badg.es/v1/contributor/sarah11918/) <img src="https://user-images.githubusercontent.com/5098874/142215203-284acb33-90cd-4d31-80d6-352085be1d57.jpg" width="350" alt="Sarah Rainsberger with a tiny bird sitting on her outstretched palm.">
 <br>
