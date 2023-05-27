@@ -1,13 +1,16 @@
- ![Astro](https://img.shields.io/badge/Astro-333333.svg?logo=astro&logoColor=whitee&style=for-the-badge)   🚀 Docs Lead and Core Maintainer 🚀 
- 
-
 
 ![Follow me on Twitter](https://img.shields.io/badge/@sarah11918-blue?logo=twitter&logoColor=white&style=for-the-badge) ![Follow me on Mastodon](https://img.shields.io/mastodon/follow/000011967?domain=https%3A%2F%2Fmastodon.social&label=%40sarah11918%40mastodon.social&logo=mastodon&logoColor=white&style=for-the-badge) ![Visit my blog](https://img.shields.io/badge/blog-rainsberger.ca-blue?style=for-the-badge)
 
 [![@sarah11918 Astro contributions](https://astro.badg.es/v1/contributor/sarah11918.svg)](https://astro.badg.es/v1/contributor/sarah11918/) <img src="https://user-images.githubusercontent.com/5098874/142215203-284acb33-90cd-4d31-80d6-352085be1d57.jpg" width="350" alt="Sarah Rainsberger with a tiny bird sitting on her outstretched palm.">
 <br>
 
+![Astro](https://img.shields.io/badge/Astro-333333.svg?logo=astro&logoColor=whitee&style=for-the-badge)   🚀 Docs Lead and Core Maintainer 🚀 
+
+ #NWTWWHB - "Not worse than what we had before!"
+
 ![Astro Docs](https://img.shields.io/badge/docs.astro.build-blueviolet?style=for-the-badge) on ![](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white "Chrome OS") and ![](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white "Android") via ![](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white "Gitpod")
+
+
 
 <!--
 **sarah11918/sarah11918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
