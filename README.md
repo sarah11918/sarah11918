@@ -1,12 +1,11 @@
-
+![#nwtwwhb-not-worse-than-what-we-had-before2](https://github.com/sarah11918/sarah11918/assets/5098874/011ba91f-1fca-4127-9acf-5762ebbfe640)
 
 ### ![Astro](https://img.shields.io/badge/Astro-333333.svg?logo=astro&logoColor=white) Core Maintainer 🚀 Docs Lead 📑 Technical Writer ✍️
 
- #NWTWWHB - "Not worse than what we had before!"
-
-![Astro Docs](https://img.shields.io/badge/docs.astro.build-blueviolet?style=for-the-badge) on ![](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white "Chrome OS") and ![](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white "Android") via ![](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white "Gitpod")
-
 <img src="https://github.com/sarah11918/sarah11918/assets/5098874/5ae05849-1783-4219-b46b-e523b33aed33" width="575" alt="Photograph of Sarah handwriting code using an onscreen keyboard set to handwriting input. The tablet screen shows an Astro repo being edited in Stackblitz online code editor." >
+
+![Astro Docs](https://img.shields.io/badge/docs.astro.build-blueviolet?style=for-the-badge "Astro Docs") on ![ChromeOS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white "Chrome OS") and ![Android](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white "Android") via ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white "Gitpod")
+
 
 ### Where to find me
 
