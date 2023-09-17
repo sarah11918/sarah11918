@@ -1,8 +1,26 @@
-
+## Sarah Rainsberger
 
 ### [![Astro](https://img.shields.io/badge/Astro-333333.svg?logo=astro&logoColor=white)](https://astro.build/) Core Maintainer 🚀 Docs Lead 📑 Technical Writer ✍️ Bird Photographer 📷 🐦
 
 <img src="https://github.com/sarah11918/sarah11918/assets/5098874/5ae05849-1783-4219-b46b-e523b33aed33" width="800" alt="Photograph of Sarah handwriting code using an onscreen keyboard set to handwriting input. The tablet screen shows an Astro repo being edited in Stackblitz online code editor." ><a href="https://astro.badg.es/v1/contributor/sarah11918/)" >
+
+### Talks
+
+- [Learning in the Browser](https://www.youtube.com/watch?v=5X-WEQflCL0) - ReactConf 2021
+
+- [Jamstack in the Browser](https://www.youtube.com/watch?v=tmKlWSIJbuo) - TheJam.dev 2022
+
+- [Happy Contributors, High Standards: Pick two! Balancing quality and community in open-source documenatation](https://www.youtube.com/watch?v=emgFALmCyrY) - Write the Docs Australia 2022
+
+- Stop writing docs; Start helping (upcoming) - ViteConf 2023
+
+### Interviews / Appearances
+
+🎙️ Kelvin Omereshone's Twitter Space Jan 2023: [Making Documentation Developers Love](https://www.youtube.com/watch?v=YW4IfoJM30g)
+
+🎙️ GitHub ReadME Podcast: [Episode 31: Bridging code and community](https://github.com/readme/podcast/code-and-community)
+
+📰 GitHub ReadME Project June 2023: [Non-code contributions are the secret to open source success](https://github.com/readme/featured/open-source-non-code-contributions) - Klint Finley
 
 ### Astro Badge (get yours at [astro.badg.es](https://astro.badg.es/contributors/))
 <img src="https://astro.badg.es/v1/contributor/sarah11918.svg" alt="@sarah11918 Astro contributions" ></a>
