@@ -15,7 +15,7 @@ Leading community-driven, open-source documentation.
 
 📺 [Happy Contributors, High Standards: Pick two! Balancing quality and community in open-source documenatation](https://www.youtube.com/watch?v=emgFALmCyrY) - Write the Docs Australia 2022
 
-📺 Stop writing docs; Start helping (upcoming) - ViteConf 2023
+📺 [Stop writing docs; Start helping](https://www.youtube.com/watch?v=jcpkVJr-rUw&list=PLqGQbXn_GDmkOsHI7-Wrbv1GgAA4tJZhg&index=26) - ViteConf 2023
 
 ## Interviews / Appearances
 
@@ -25,7 +25,9 @@ Leading community-driven, open-source documentation.
 
 📰 GitHub ReadME Project June 2023: [Non-code contributions are the secret to open source success](https://github.com/readme/featured/open-source-non-code-contributions) - Klint Finley
 
-🎙️ Hanselminutes Podcast September 2023: Episode 911 (upcoming) 
+🎙️ Hanselminutes Podcast September 2023: [Episode 911: Documentation as a path to Open Source](https://www.hanselminutes.com/911/documentation-as-a-path-to-open-source-with-sarah-rainsberger)
+
+📺 ViteConf 2023: [Community and Contributors Panel](https://www.youtube.com/watch?v=rqB7hy5lcmc&list=PLqGQbXn_GDmkOsHI7-Wrbv1GgAA4tJZhg&index=29) - Sarah Rainsberger, Brittney Postma, Anthony Fu, and Matias Capeletto, with This Dot Labs' Tracy Lee as host, discuss how to get involved in open source and foster healthier communities.
 
 ## Blog Posts
 
