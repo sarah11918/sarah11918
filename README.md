@@ -11,9 +11,9 @@ Leading community-driven, open-source documentation.
 
 📺 [Stop writing docs; Start helping](https://www.youtube.com/watch?v=jcpkVJr-rUw&list=PLqGQbXn_GDmkOsHI7-Wrbv1GgAA4tJZhg&index=26) - ViteConf 2023
 
-📺 [Happy Contributors, High Standards: Pick two! Balancing quality and community in open-source documenatation](https://www.youtube.com/watch?v=emgFALmCyrY) - Write the Docs Australia 2022
+📺 [Happy Contributors, High Standards: Pick two! Balancing quality and community in open-source documenatation](https://www.youtube.com/watch?v=emgFALmCyrY&list=PLZAeFn6dfHpktOcWn5mQNOx5gYo6O7TR6&index=6) - Write the Docs Australia 2022
 
-📺 [Learning in the Browser](https://www.youtube.com/watch?v=5X-WEQflCL0) - ReactConf 2021
+📺 [Learning in the Browser](https://www.youtube.com/watch?v=5X-WEQflCL0&list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa&index=9) - ReactConf 2021
 
 📺 [Jamstack in the Browser (Lightning Talk)](https://www.youtube.com/watch?v=tmKlWSIJbuo) - TheJam.dev 2022
 
