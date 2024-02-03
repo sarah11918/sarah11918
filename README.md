@@ -9,13 +9,15 @@ Leading community-driven, open-source documentation.
 
 ## Talks
 
-📺 [Learning in the Browser](https://www.youtube.com/watch?v=5X-WEQflCL0) - ReactConf 2021
-
-📺 [Jamstack in the Browser](https://www.youtube.com/watch?v=tmKlWSIJbuo) - TheJam.dev 2022
+📺 [Stop writing docs; Start helping](https://www.youtube.com/watch?v=jcpkVJr-rUw&list=PLqGQbXn_GDmkOsHI7-Wrbv1GgAA4tJZhg&index=26) - ViteConf 2023
 
 📺 [Happy Contributors, High Standards: Pick two! Balancing quality and community in open-source documenatation](https://www.youtube.com/watch?v=emgFALmCyrY) - Write the Docs Australia 2022
 
-📺 [Stop writing docs; Start helping](https://www.youtube.com/watch?v=jcpkVJr-rUw&list=PLqGQbXn_GDmkOsHI7-Wrbv1GgAA4tJZhg&index=26) - ViteConf 2023
+📺 [Learning in the Browser](https://www.youtube.com/watch?v=5X-WEQflCL0) - ReactConf 2021
+
+📺 [Jamstack in the Browser (Lightning Talk)](https://www.youtube.com/watch?v=tmKlWSIJbuo) - TheJam.dev 2022
+
+[![YouTube playlist of all talks](https://img.shields.io/badge/playlist_of_all_talks-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLowBAHWxr_2DgiS5maPN2wg96dmKho_yC&si=_ckXtTot6ApGcoMk)
 
 ## Interviews / Appearances
 
