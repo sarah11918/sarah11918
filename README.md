@@ -13,6 +13,8 @@ Leading community-driven, open-source documentation.
 
 📺 [Happy Contributors, High Standards: Pick two! Balancing quality and community in open-source documenatation](https://www.youtube.com/watch?v=emgFALmCyrY&list=PLZAeFn6dfHpktOcWn5mQNOx5gYo6O7TR6&index=6) - Write the Docs Australia 2022
 
+📺 [Making effecitive contributions to open-source documentation](https://www.youtube.com/watch?v=abw7-BfApMk) - Distribute Aid, Open Source Explorers 2024
+
 📺 [Learning in the Browser](https://www.youtube.com/watch?v=5X-WEQflCL0&list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa&index=9) - ReactConf 2021
 
 📺 [Jamstack in the Browser (Lightning Talk)](https://www.youtube.com/watch?v=tmKlWSIJbuo) - TheJam.dev 2022
