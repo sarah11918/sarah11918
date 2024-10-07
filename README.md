@@ -9,6 +9,14 @@ Leading community-driven, open-source documentation.
 
 ## Talks
 
+📺 [Docs as Community Building](https://viteconf.org/24/replay/docs) - ViteConf 2024
+
+📺 [Stop writing docs; Start helping](https://www.youtube.com/watch?v=TvWxf13eDwY&list=PLowBAHWxr_2DgiS5maPN2wg96dmKho_yC&index=2) - Frontend Nation 2024
+
+📺 [One year of Starlight: Astro’s community-built documentation theme](https://www.youtube.com/watch?v=j8K-ESJF814&list=PLowBAHWxr_2DgiS5maPN2wg96dmKho_yC&index=4) - Astro Together 2024
+
+📺 [Making effective contributions to open-source documentation](https://www.youtube.com/watch?v=abw7-BfApMk) - Distribute Aid, Open Source Explorers 2024
+
 📺 [Stop writing docs; Start helping](https://www.youtube.com/watch?v=jcpkVJr-rUw&list=PLqGQbXn_GDmkOsHI7-Wrbv1GgAA4tJZhg&index=26) - ViteConf 2023
 
 📺 [Happy Contributors, High Standards: Pick two! Balancing quality and community in open-source documenatation](https://www.youtube.com/watch?v=emgFALmCyrY&list=PLZAeFn6dfHpktOcWn5mQNOx5gYo6O7TR6&index=6) - Write the Docs Australia 2022
