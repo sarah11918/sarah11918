@@ -9,7 +9,7 @@ Leading community-driven, open-source documentation.
 
 ## Talks
 
-📺 [Docs as Community Building](https://viteconf.org/24/replay/docs) - ViteConf 2024
+📺 [Docs as Community Building](https://www.youtube.com/watch?v=MK4s-P3kqyA) - ViteConf 2024
 
 📺 [Stop writing docs; Start helping](https://www.youtube.com/watch?v=TvWxf13eDwY&list=PLowBAHWxr_2DgiS5maPN2wg96dmKho_yC&index=2) - Frontend Nation 2024
 
