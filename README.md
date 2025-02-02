@@ -2,8 +2,8 @@
 Leading community-driven, open-source documentation.
 
 <strong>Astro Core Maintainer 🚀 Docs Lead 📑 Technical Writer ✍️ Bird Photographer 📷 🐦</strong>
-
-<img src="https://github.com/sarah11918/sarah11918/assets/5098874/5ae05849-1783-4219-b46b-e523b33aed33" width="700" alt="Photograph of Sarah handwriting code using an onscreen keyboard set to handwriting input. The tablet screen shows an Astro repo being edited in Stackblitz online code editor." ><a href="https://astro.badg.es/v1/contributor/sarah11918/)" >
+![Far away shot of me standing on a stage (giving a talk) in a dark room front of a huge slide monitor showing "1,000 contributors" surrounded by hundreds of GitHub avatar circles and the Astro logo in a few places.
+](https://github.com/user-attachments/assets/616b950b-778c-4cad-acc4-58e9e767ce98)
 
 ![#nwtwwhb-not-worse-than-what-we-had-before2](https://github.com/sarah11918/sarah11918/assets/5098874/011ba91f-1fca-4127-9acf-5762ebbfe640)
 
