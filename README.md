@@ -21,8 +21,6 @@ Leading community-driven, open-source documentation.
 
 📺 [Happy Contributors, High Standards: Pick two! Balancing quality and community in open-source documenatation](https://www.youtube.com/watch?v=emgFALmCyrY&list=PLZAeFn6dfHpktOcWn5mQNOx5gYo6O7TR6&index=6) - Write the Docs Australia 2022
 
-📺 [Making effecitive contributions to open-source documentation](https://www.youtube.com/watch?v=abw7-BfApMk) - Distribute Aid, Open Source Explorers 2024
-
 📺 [Learning in the Browser](https://www.youtube.com/watch?v=5X-WEQflCL0&list=PLNG_1j3cPCaZZ7etkzWA7JfdmKWT0pMsa&index=9) - ReactConf 2021
 
 📺 [Jamstack in the Browser (Lightning Talk)](https://www.youtube.com/watch?v=tmKlWSIJbuo) - TheJam.dev 2022
@@ -30,6 +28,8 @@ Leading community-driven, open-source documentation.
 [![YouTube playlist of all talks](https://img.shields.io/badge/playlist_of_all_talks-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLowBAHWxr_2DgiS5maPN2wg96dmKho_yC&si=_ckXtTot6ApGcoMk)
 
 ## Interviews / Appearances
+
+📺 GitHub Open Source Friday 2025: [Astro Docs](https://www.youtube.com/watch?v=3cJgXfy5Pmg)
 
 🎙️ Kelvin Omereshone's Twitter Space Jan 2023: Making Documentation Developers Love ([listen on YouTube](https://www.youtube.com/watch?v=YW4IfoJM30g)) / ([listen on Spotify](https://open.spotify.com/episode/5QYkgKtsneWhUAebPahIRJ?si=bfTpykAZRLWVBE3wvQiuzQ))
 
